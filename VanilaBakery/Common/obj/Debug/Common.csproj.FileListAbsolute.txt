@@ -1,0 +1,39 @@
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\bin\Debug\Common.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\bin\Debug\Common.pdb
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\obj\Debug\Common.dll
+E:\Web Asp.net\Vanila Bakery\VanilaBakery\Common\obj\Debug\Common.pdb
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\Common\bin\Debug\Common.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\Common\bin\Debug\Common.pdb
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\Common\obj\Debug\Common.dll
+C:\Users\Admin\Downloads\Web bán bánh\VanilaBakery\Common\obj\Debug\Common.pdb
+D:\ASP.net\LabTrg\VanilaBakery\Common\bin\Debug\Common.dll
+D:\ASP.net\LabTrg\VanilaBakery\Common\bin\Debug\Common.pdb
+D:\ASP.net\LabTrg\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\ASP.net\LabTrg\VanilaBakery\Common\obj\Debug\Common.dll
+D:\ASP.net\LabTrg\VanilaBakery\Common\obj\Debug\Common.pdb
+D:\ASP.net\LabTrg\VanilaBakery\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\bin\Debug\Common.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\bin\Debug\Common.pdb
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\obj\Debug\Common.dll
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\obj\Debug\Common.pdb
+D:\ASP.net\LabTrg\cac\VanilaBakery\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\bin\Debug\Common.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\bin\Debug\Common.pdb
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\obj\Debug\Common.dll
+C:\Users\TTMT Hutech\Desktop\VanilaBakery\Common\obj\Debug\Common.pdb
+H:\thuongmaidientu\VanilaBakery\VanilaBakery\Common\bin\Debug\Common.dll
+H:\thuongmaidientu\VanilaBakery\VanilaBakery\Common\bin\Debug\Common.pdb
+H:\thuongmaidientu\VanilaBakery\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+H:\thuongmaidientu\VanilaBakery\VanilaBakery\Common\obj\Debug\Common.dll
+H:\thuongmaidientu\VanilaBakery\VanilaBakery\Common\obj\Debug\Common.pdb
+H:\LapTrinhWeb-ThaySon\thuongmaidientu\VanilaBakery\VanilaBakery\VanilaBakery\Common\bin\Debug\Common.dll
+H:\LapTrinhWeb-ThaySon\thuongmaidientu\VanilaBakery\VanilaBakery\VanilaBakery\Common\bin\Debug\Common.pdb
+H:\LapTrinhWeb-ThaySon\thuongmaidientu\VanilaBakery\VanilaBakery\VanilaBakery\Common\obj\Debug\Common.csprojAssemblyReference.cache
+H:\LapTrinhWeb-ThaySon\thuongmaidientu\VanilaBakery\VanilaBakery\VanilaBakery\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+H:\LapTrinhWeb-ThaySon\thuongmaidientu\VanilaBakery\VanilaBakery\VanilaBakery\Common\obj\Debug\Common.dll
+H:\LapTrinhWeb-ThaySon\thuongmaidientu\VanilaBakery\VanilaBakery\VanilaBakery\Common\obj\Debug\Common.pdb
